@@ -1,0 +1,17 @@
+aiofiles
+ascii_colors
+fastapi
+numpy
+pipmaster
+python-dotenv
+python-multipart
+tenacity
+tiktoken
+uvicorn
+networkx
+graspologic
+hyppo
+future
+scipy
+pandas
+scikit-learn
